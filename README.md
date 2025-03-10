@@ -31,11 +31,15 @@ This repository contains the implementation of an **Image Classification Model**
 
 Below are some visualizations from the implementation:
 
-![Sample Images](https://github.com/user-attachments/assets/12a34b56-9b98-432b-8c19-fd321e9dc2ac)
+![Image](https://github.com/user-attachments/assets/2e0e1a2f-144e-4683-bdb7-4561f70172ea)
 
-![Training Accuracy](https://github.com/user-attachments/assets/78c90d12-0a1e-4141-8219-7e96b8aa11d0)
+![Image](https://github.com/user-attachments/assets/4a7002a0-f28c-4520-b28f-d91bb1cdcfd9)
 
-![Confusion Matrix](https://github.com/user-attachments/assets/34e56f78-2505-48ff-8c86-d48d3037ea95)
+![Image](https://github.com/user-attachments/assets/d466e20e-04e7-4d92-8fdc-5e3752eb7e50)
+
+![Image](https://github.com/user-attachments/assets/83e8bff9-3011-4696-bd0f-439fd62cf9bd)
+
+![Image](https://github.com/user-attachments/assets/8b1929bd-e31e-4fd2-988c-7d4eef29065f)
 
 ## How to Run
 
